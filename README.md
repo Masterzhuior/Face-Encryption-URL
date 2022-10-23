@@ -2,4 +2,4 @@
 The Face Encryption URL
 
 
-URL: www
+URL: https://3bea7406e6caea40.gradio.app
